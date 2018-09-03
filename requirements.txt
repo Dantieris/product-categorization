@@ -1,0 +1,7 @@
+pandas
+numpy
+nltk
+sklearn
+flask
+flask_restful
+scipy
